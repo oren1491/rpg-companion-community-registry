@@ -39,9 +39,11 @@
     "stars": 2
   },
   {
-    "name": "RPG-backup",
-    "description": "backup with races, subclass I've added",
-    "tags": [],
+    "name": "5e-backup",
+    "description": "5e backup (with some additional content compared to the default repo)",
+    "tags": [
+      "5e"
+    ],
     "stars": 0,
     "github_repo": "Joybrther/RPG-backup",
     "repo_url": "https://Joybrther.github.io/RPG-backup/",
